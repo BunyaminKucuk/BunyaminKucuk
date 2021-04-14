@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Bünyamin%20Küçük%2020Banner.png">
 
 <h2> Hey there! I'm Bünyamin.</h2>
 
