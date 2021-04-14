@@ -41,5 +41,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/bünyaminkücük/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bünyamin%20Küçük%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/bunyamin.kcuk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bunyamin.kcuk-blue?style=flat-square&logo=instagram"></a>
-<a href="bunyaminkcuk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bunyaminkcuk@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:bunyaminkcuk@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bunyaminkcuk@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
