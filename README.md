@@ -4,7 +4,7 @@
 <h3> 👨🏻💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I study at Mainsa Celal Bayar University.
+- 🎓 &nbsp; I study at Manisa Celal Bayar University.
 - 💼 &nbsp; Working as a Fullstack Development in Piyonsoft.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
