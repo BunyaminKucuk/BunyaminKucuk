@@ -33,6 +33,8 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio&logoColor=%235C2D91)
+- 👨‍💻 &&nbsp; Total Profile Visitors
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=BunyaminKucuk.BunyaminKucuk)
 
 <a href="https://github.com/BunyaminKucuk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunyaminKucuk&theme=tokyonight&show_icons=true" />
@@ -40,11 +42,7 @@
 </a>
 <br/>
 
-<h3> 👨‍💻 &nbsp;Total Profile Visitors</h3>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=BunyaminKucuk.BunyaminKucuk)
-<br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/bünyaminkücük/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bünyamin%20Küçük%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/bunyamin.kcuk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bunyamin.kcuk-blue?style=flat-square&logo=instagram"></a>
