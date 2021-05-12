@@ -36,8 +36,8 @@
 
 
 <h3> 👨‍💻 &nbsp;Total Profile Visitors </h3>
-- ⚙️ &nbsp;
-![visitor](https://visitor-badge.glitch.me/badge?page_id=BunyaminKucuk.BunyaminKucuk)
+-  &nbsp;
+![visitors](https://visitor-badge.glitch.me/badge?page_id=BunyaminKucuk.BunyaminKucuk)
 <br/>
 
 <a href="https://github.com/BunyaminKucuk">
