@@ -43,7 +43,7 @@
 
 <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BunyaminKucuk.BunyaminKucuk)
+![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=BunyaminKucuk.BunyaminKucuk)
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
