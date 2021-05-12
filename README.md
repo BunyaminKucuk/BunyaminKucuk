@@ -6,6 +6,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I study at Manisa Celal Bayar University.
 - 💼 &nbsp; Working as a Fullstack Development in Piyonsoft.
+-  👨‍💻 &nbsp;   ![visitors](https://visitor-badge.glitch.me/badge?page_id=BunyaminKucuk.BunyaminKucuk)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -42,7 +43,6 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=BunyaminKucuk.BunyaminKucuk)
 <p align="center"
 <a href="https://www.linkedin.com/in/bünyaminkücük/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Bünyamin%20Küçük%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/bunyamin.kcuk/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bunyamin.kcuk-blue?style=flat-square&logo=instagram"></a>
