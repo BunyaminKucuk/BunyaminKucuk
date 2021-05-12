@@ -34,17 +34,15 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=Visual%20Studio&logoColor=%235C2D91)
 
-<h3> 👨‍💻 &nbsp;Total Profile Visitors</h3>
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=BunyaminKucuk.BunyaminKucuk)
-<br/>
-
 <a href="https://github.com/BunyaminKucuk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BunyaminKucuk&theme=tokyonight&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BunyaminKucuk&theme=tokyonight&layout=compact" />
 </a>
-
 <br/>
 
+<h3> 👨‍💻 &nbsp;Total Profile Visitors</h3>
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=BunyaminKucuk.BunyaminKucuk)
+<br/>
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
