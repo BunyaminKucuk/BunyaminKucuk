@@ -5,7 +5,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I was study at Manisa Celal Bayar University.
-[- 💼 &nbsp; Working as a Fullstack Development in Piyonsoft.](url)
 -  👨‍💻 &nbsp;   ![visitors](https://visitor-badge.glitch.me/badge?page_id=BunyaminKucuk.BunyaminKucuk)
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
